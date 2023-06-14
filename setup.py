@@ -17,8 +17,8 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 
-        name='house-predition',
-        version='0.0.1',
+        name='diamond-predition',
+        version='0.0.2',
         author="karthik",
         author_email="karthikm3110@hotmail.com",
         packages=find_packages(),
